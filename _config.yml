@@ -58,7 +58,7 @@ author_project_details:
                 visibility: true
               - project_thumbnail: Audi-image-logo-200x200.png
                 project_title: Audi USA
-                project_description: A Platform to easily find and read programming books
+                project_description: <ul><li>Adobe AEM 6.1/6.2 Components and services development</li><li>OSGi/Sling framework based Java Development</li><li>Mobile APP using Contentsync</li><li>Financial Services Integration (Microservice using spring boot)</li></ul>
                 project_url: https://www.audiusa.com/
                 visibility: true
               - project_thumbnail: mtb.png
