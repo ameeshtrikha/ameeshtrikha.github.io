@@ -45,7 +45,7 @@ author_work_experiences:
 author_education_details:
               - college_logo: 220px-Guru_Gobind_Singh_Indraprastha_University12.png
                 college_name: Guru Gobind Singh Indraprastha University
-                college_url: https://ipu.ac.in
+                college_url: http://ipu.ac.in
                 college_degree: Electronics and Communication Engineering
                 description: Bachelor of Technology
                 visibility: true
