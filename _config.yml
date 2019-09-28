@@ -1,7 +1,6 @@
 title: Ameesh Trikha
 subtitle: Java Developer and AEM Specialist
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a Jekyll Theme Built For Developers
 
 url: "https://devlopr.netlify.com" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -9,38 +8,61 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
     - text: Blog
       url: /blog
-    - text: Shop
-      url : /shop/
     - text: About Me
       url: /about/
     - text: Contact Me
       url : /contact/
-    - text: Styleguide
-      url: /styleguide/
-    
-
+  #  - text: Styleguide
+  #    url: /styleguide/
+  #  - text: Shop
+  #    url : /shop/  
+  
 # Edit these details 
 
 author_logo: profile.png
 author: Ameesh Trikha
-author_bio: Hi, My Name is Ameesh Trikha. I love to Code and Design.
+author_bio: Hi, My Name is Ameesh Trikha. I am an AEM Architect which focus on component, template and services development. I love to design author and performance optimized components, making authoring a plesant experience.
 author_email: "ameesh.trikha@gmail.com"
 author_location: New Jersey, United States
 author_website_url: "https://content.wcmshare.com"
 
 author_work_experiences: 
-            - company_name: MullenLowe Profero [2/2018 - 9/2019]
+            - company_name: MullenLowe Profero, New York [2/2018 - 9/2019]
               company_logo: mullenlowe-profero-squarelogo-1505460911431.png
               company_url: https://www.mullenloweprofero.com
               designation: Sr. AEM Application Architect
-              description: Worked on various Google Products
+              description: 
               visibility: true
-            - company_name: AKQA [1/2014 - 2/2018]
+            - company_name: AKQA, Washington DC [11/2015 - 2/2018]
               company_logo: AKQA.png
               company_url: https://akqa.com
               designation: Principal Software Engineer
-              description: Worked on various Azure Cloud Products
+              description: 
               visibility: true
+            - company_name: AKQA, Gurugram, India [1/2014 - 11/2015]
+              company_logo: AKQA.png
+              company_url: https://akqa.com
+              designation: Senior Software Engineer
+              description: 
+              visibility: true
+            - company_name: Prodigi (A WPP Company), Gurugram, India [5/2013 - 1/2014]
+              company_logo: prodigi.png
+              company_url: http://www.prodigi.io/
+              designation: Technical Lead
+              description: 
+              visibility: true
+            - company_name: Wipro, Chennai, India [1/2013 - 5/2013]
+              company_logo: wipro.png
+              company_url: https://www.wipro.com
+              designation: Technical Lead
+              description: 
+              visibility: true
+            - company_name: Sapient Nitro, Gurugram, India [7/2006 - 11/2012]
+              company_logo: sapient.png
+              company_url: https://www.publicissapient.com/
+              designation: Senior Associate Technology L2
+              description: 
+              visibility: true      
 
 author_education_details:
               - college_logo: 220px-Guru_Gobind_Singh_Indraprastha_University12.png
