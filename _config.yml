@@ -29,14 +29,14 @@ author_location: New Jersey, United States
 author_website_url: "https://content.wcmshare.com"
 
 author_work_experiences: 
-            - company_name: MullenLowe Profero
+            - company_name: MullenLowe Profero [2/2018 - 9/2019]
               company_logo: mullenlowe-profero-squarelogo-1505460911431.png
               company_url: https://www.mullenloweprofero.com
               designation: Sr. AEM Application Architect
               description: Worked on various Google Products
               visibility: true
-            - company_name: AKQA
-              company_logo: AKQA-Logo.png
+            - company_name: AKQA [1/2014 - 2/2018]
+              company_logo: AKQA.png
               company_url: https://akqa.com
               designation: Principal Software Engineer
               description: Worked on various Azure Cloud Products
@@ -51,15 +51,20 @@ author_education_details:
                 visibility: true
 
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
+              - project_thumbnail: h-d.png
+                project_title: Harley Davidson 
                 project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+                project_url: https://www.harley-davidson.com/us/en/index.html
                 visibility: true
-              - project_thumbnail: programmingebooks.png
-                project_title: Programming Ebooks
+              - project_thumbnail: Audi-image-logo-200x200.png
+                project_title: Audi USA
                 project_description: A Platform to easily find and read programming books
-                project_url: https://programmingebooks.com
+                project_url: https://www.audiusa.com/
+                visibility: true
+              - project_thumbnail: mtb.png
+                project_title: Montblanc E-Commerce Rollout
+                project_description: A Platform to easily find and read programming books
+                project_url: https://www.montblanc.com/en-us/home.html
                 visibility: true
 
 # social links
