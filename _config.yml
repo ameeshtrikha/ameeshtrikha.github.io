@@ -26,27 +26,27 @@ author: Ameesh Trikha
 author_bio: Hi, My Name is Ameesh Trikha. I love to Code and Design.
 author_email: "ameesh.trikha@gmail.com"
 author_location: New Jersey, United States
-author_website_url: "http://wcmshare.com"
+author_website_url: "https://content.wcmshare.com"
 
 author_work_experiences: 
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
+            - company_name: MullenLowe Profero
+              company_logo: mullenlowe-profero-squarelogo-1505460911431.png
+              company_url: https://www.mullenloweprofero.com
+              designation: Sr. AEM Application Architect
               description: Worked on various Google Products
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
+            - company_name: AKQA
+              company_logo: AKQA-Logo.png
+              company_url: https://akqa.com
+              designation: Principal Software Engineer
               description: Worked on various Azure Cloud Products
               visibility: true
 
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
+              - college_logo: 220px-Guru_Gobind_Singh_Indraprastha_University12.png
+                college_name: Guru Gobind Singh Indraprastha University
+                college_url: https://ipu.ac.in
+                college_degree: Electronics and Communication Engineering
                 description: Bachelor of Technology
                 visibility: true
 
