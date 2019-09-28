@@ -1,6 +1,6 @@
 title: Ameesh Trikha
-subtitle: Java Developer and AEM Specialist
-description: >- # this means to ignore newlines until "baseurl:"
+subtitle: "Logic is the beginning of wisdom … not the end."
+description: We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities. <br><center>~Josh Waitzkin<center> #>- # this means to ignore newlines until "baseurl:"
 
 url: "https://devlopr.netlify.com" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -21,7 +21,7 @@ urls:
 
 author_logo: profile.png
 author: Ameesh Trikha
-author_bio: Hi, My Name is Ameesh Trikha. I am an AEM Architect which focus on component, template and services development. I love to design author and performance optimized components, making authoring a plesant experience.
+author_bio: Hi, My Name is Ameesh Trikha. I am a backend developer/architect with over 13 years of experience in developing web based applications and customized CMS implementations. For past 8 years I have been working on AEM. As an AEM Architect I focus on component, template and services design and development. I love to design author &nbsp; performance optimized components, making authoring a plesant experience.
 author_email: "ameesh.trikha@gmail.com"
 author_location: New Jersey, United States
 author_website_url: "https://content.wcmshare.com"
